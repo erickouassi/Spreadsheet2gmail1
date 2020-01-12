@@ -125,3 +125,8 @@ Spreadsheet:Sheet 1 [Data ](http://prntscr.com/qm3hjz)
 
 Spreadsheet: sheet 2 [emailMessage](http://prntscr.com/qm3iuc)
 
+```
+// Prevents sending duplicates
+
+```
+
